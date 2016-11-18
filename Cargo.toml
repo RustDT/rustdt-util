@@ -1,5 +1,5 @@
 [package]
-name = "rustdt-util"
+name = "rustdt_util" ## Cargo doesn't let me rename this to "rustdt-util" 
 version = "0.2.2"
 authors = ["Bruno Medeiros <bruno.do.medeiros@gmail.com>"]
 
@@ -16,4 +16,4 @@ default = [ "test_utils" ]
 test_utils = []
 
 [lib]
-name = "rustdt_util"
+name = "rustdt_util2"
