@@ -1,6 +1,6 @@
 [package]
-name = "rustdt_util"
-version = "0.2.1"
+name = "rustdt-util"
+version = "0.2.2"
 authors = ["Bruno Medeiros <bruno.do.medeiros@gmail.com>"]
 
 description = "Utilities and common code for RustDT Rust projects"
@@ -14,3 +14,6 @@ keywords = ["rustdt"]
 [features]
 default = [ "test_utils" ]
 test_utils = []
+
+[lib]
+name = "rustdt_util"
