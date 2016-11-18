@@ -1,7 +1,13 @@
 [package]
-name = "melnorme_util"
-version = "0.1.1"
+name = "rustdt_util"
+version = "0.2.1"
 authors = ["Bruno Medeiros <bruno.do.medeiros@gmail.com>"]
+
+description = "Utilities and common code for RustDT Rust projects"
+repository = "https://github.com/RustDT/rustdt_util"
+documentation = "https://docs.rs/rustdt_util"
+license = "Apache-2.0"
+keywords = ["rustdt"]
 
 [dependencies]
 
